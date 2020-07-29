@@ -189,5 +189,5 @@ r.poligono([poligono2], WHITE, True)
 r.poligono([poligono3], WHITE, True)
 r.poligono([poligono4], WHITE, True)
 r.poligono([poligono5], WHITE, True)
-r.write('lab1.bmp')
+r.write('Poligonos.bmp')
 
